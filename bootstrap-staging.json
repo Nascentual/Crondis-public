@@ -122,7 +122,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "minimumLauncherVersion": "1.0",
+    "minimumLauncherVersion": "1.0.1",
     "launcherJvm11WindowsArguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -149,7 +149,7 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "1.1",
+    "projectVersion": "1.0.1",
     "artifacts": [
         {
             "path": "https://github.com/MaddoxOSRS/hosting/raw/master/stable/http-api-4.10.0.jar",
